@@ -3,9 +3,9 @@
 |      |      |
 |:---- |:---- |
 | Course and Year | COM304 Foundation Computing 2024 | 
-| Student Name | |
-| Student Number | |
-| Github Account | |
+|Fadi ghattas| |
+| Q012547289 | |
+| fadighattas76 | |
 
 ## Introduction
 
