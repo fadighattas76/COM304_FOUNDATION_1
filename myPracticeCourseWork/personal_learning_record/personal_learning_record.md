@@ -3,9 +3,9 @@
 |      |      |
 |:---- |:---- |
 | Course and Year | COM304 Foundation Computing 2024 | 
-|Fadi ghattas| |
-| Q012547289 | |
-| fadighattas76 | |
+|name|fadi ghattas |
+| student number | Q012547289|
+| account username | fadighattas76|
 
 ## Introduction
 
