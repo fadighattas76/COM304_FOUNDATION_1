@@ -4,11 +4,6 @@
 
 ---
 **NOTE**
-
-For each of the sessions, bullet point notes on what you have learnt.
-Use markdown references and / or links to resources you have used
-use  screen shots and / or code samples as appropriate.
-
 ---
 
 ## session 1
