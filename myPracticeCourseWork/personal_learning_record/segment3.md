@@ -3,44 +3,20 @@
 # Segment 3 - Networking and Cloud
 
 ## session 9
-Introduction to Networking:
+Beginning my study on computer networking, I tackled the foundations of device communication across networks—including the core notions of IP addresses, protocols, and data transmission—including the Exercises on Networking:
 
-Began exploring how computer networking works, covering the basics of how devices communicate over networks, including the underlying concepts like IP addresses, protocols, and data transmission.
-Networking Exercises:
+completed applied projects to validate my networking expertise and provide useful guidance with network configuration and difficulties. VNC, SSH, Virtual Network, Remote Communication
 
-Completed practical exercises to solidify my understanding of networking, providing hands-on experience with network configuration and troubleshooting.
-VNC, SSH, and Remote Connection:
-
-Learned how to use VNC (Virtual Network Computing) and SSH (Secure Shell) to connect to my Raspberry Pi remotely.
-These exercises enabled me to control my Pi from a distance, which is useful for managing and troubleshooting the system without needing a monitor or keyboard directly attached.
-
+Learn how to access SSH ( Secure Shell) and VNC (Virtual Network Computing) my Raspberry Pi remotely. Important for system maintenance and troubleshooting free of a physically linked display or keyboard, these exercises taught me to control my Pi from a distance.
 ## session 10
-History of the Internet:
+When one looks back on the Internet, one finds its origins, key turning points, and evolution into the generally acknowledged network of today. This taught me to understand the basic developments allowing contemporary networking and communication. Create an Azure Cloud Account here.
 
-Studied the history of the Internet, learning about its origins, key milestones, and how it evolved into the global network we use today. This helped me understand the foundational developments that made modern networking and online communication possible.
-Signing Up for an Azure Cloud Account:
-
-Learned how to sign up for an Azure Cloud account using my student email address. This gave me access to cloud-based services and tools, expanding my ability to experiment with cloud technologies and infrastructure for future projects.
+enrolled under Azure Cloud using my student email address. This gave me access to cloud-based tools and services, therefore enhancing my ability to test technologies and infrastructure for next projects.
 ## session 11
-If I come across any exercises or concepts that are unclear or difficult, I should reach out for assistance to ensure that I fully understand the material.
-Begin Filling in Learning Record Sections:
+Should I come across any occurrences or thoughts that seem perplexing or difficult, I should seek assistance to guarantee I fully grasp the material. Start on some of the learning records.
 
-Start documenting my progress in the learning record sections of the report if I haven’t already done so. This will help organize my thoughts and reflect on what I’ve learned so far.
-Assignment Advice:
+Start tracking my growth in the areas set aside on the report for the learning record, if not already. This will help me to organise my thoughts and weigh my present knowledge. Directions for assignments:
 
-Follow the assignment advice to guide the content I should include for each session. This will provide clarity on what is expected in the report and help ensure I cover all the necessary topics.
-
+Guide the materials I should bring for every session using the assignment criteria. This will enable me to clearly state what is expected of the report and confirm that I handle all the necessary issues.
 ## session 12 (consolidate)
-Key Learnings and Actions:
-
-Networking:
-
-Learned how devices communicate over networks (IP addresses, protocols, data transmission).
-Completed exercises for network configuration and troubleshooting.
-Learned to use VNC and SSH to connect to Raspberry Pi remotely.
-History of the Internet:
-
-Studied the evolution of the Internet, from its origins to modern networking.
-Azure Cloud Account:
-
-Signed up for an Azure Cloud account using my student email to access cloud tools.
+developed knowledge of the network of devices (IP addresses, protocols, data flow). completed network configurable tasks including troubleshooting. Learnt VNC and SSH methods for Raspberry Pi communication from distance. Digital background.
