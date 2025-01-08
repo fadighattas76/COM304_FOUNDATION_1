@@ -9,7 +9,7 @@
 ## session 1
 Personal Learning Record (PLR): Writing down what I’ve learned helps me track my progress and think about what I’ve achieved, which is also useful for preparing for the assessment.
 
-Git and GitHub: Git is crucial for keeping track of changes in my code, and GitHub is where I can store and share my projects while working with others.
+ GitHub: Github may be crucial for where I can store and share my projects while working with others.
 
 Markdown: It’s an easy way to organize and format my notes or code explanations, making it simple to read and understand later.
 
