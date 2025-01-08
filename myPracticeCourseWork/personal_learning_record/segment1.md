@@ -2,55 +2,43 @@
 
 # Segment 1 - Computer Architecture
 
----
-**NOTE**
----
-
 ## session 1
-Personal Learning Record (PLR): Writing down what I’ve learned helps me track my progress and think about what I’ve achieved, which is also useful for preparing for the assessment.
+Personal Learning Record (PLR):Writing down what I have discovered helps me to evaluate my progress and monitor my development—also highly useful for test preparation.
 
- GitHub: Github may be crucial for where I can store and share my projects while working with others.
+GitHub: As I collaborate with others, github could be quite important for my archiving and dissemination of my work.
 
-Markdown: It’s an easy way to organize and format my notes or code explanations, making it simple to read and understand later.
+Markdown: This simple technique enables me to format my notes or code explanations so supporting later reading and comprehension.
 
-GitHub Projects: Using GitHub Projects helps me stay organized and keep track of what I need to do, making it easier to manage my tasks for this module.
+Using GitHub Projects keeps me organised and helps me to monitor what I have to finish, thereby enabling the administration of my homework for this module.
 
-Raspberry Pi: Setting up the Raspberry Pi lets me get hands-on experience with hardware and software, helping me understand how computers work on a deeper level.
+By configuring the Raspberry Pi, I will be able to get practical hardware and software knowledge, therefore enhancing my computer operating skills.
 
 ## session 2
-Understanding computer architecture has given me a solid grasp of how computers are constructed and operate, starting from the fundamental components to the more complex CPUs. It connects theoretical concepts to practical technology.
+From the basic parts to the more sophisticated CPUs, knowledge of computer architecture has helped me to grasp how computers are built and run upon. It relates intellectual ideas with practical technologies.
 
-Binary arithmetic and boolean algebra are the basic building blocks for how computers manage data. I now understand these concepts and how a computer makes choices at the most fundamental level much better.
+The fundamental components enabling computers to manage data are binary arithmetic and boolean algebra. These ideas and how a computer decides on most basic issues now make sense to me much more.
 
-Digital circuitry is primarily constructed using logic gates. Understanding how computing works is important because they are the basis for building more complex systems like CPUs, so studying them is essential.
+Comprising essentially logical gates, digital circuitry is Understanding computers is essential since they form the foundation for building more sophisticated systems like CPUs and helps one to comprehend how they work.
 
-Design of Digital Circuits and CPUs: I’ve gained a better understanding of how computers perform complex computations by learning about how simple logic gates combine to form CPUs. This knowledge has set me up for a deeper exploration into hardware and software development.
+Knowing how basic logic gates mix to generate CPUs allows me to better appreciate how computers complete difficult tasks. This background has prepared me for more intensive study of hardware and software development.
 
-Using a Raspberry Pi will help me understand how theory works in real-life situations. Hands-on experience with hardware and software helps to strengthen the understanding of digital systems and computer architecture.
+By use of a Raspberry Pi, I hope to grasp the applicability of theory in pragmatic situations. Knowledge of hardware and software enhances almost all aspect of digital system and computer design.
 
 ## session 3
-Constructing a CPU out of logic gates During the last session, I learnt how basic computer building elements—logic gates—could be used to create a CPU. This session helped me to understand how these gates cooperate to run systems and finish difficult tasks.
+constructing logical gates for CPU At the last session, I discovered how a CPU could be created from fundamental computer building elements—logic gates. This workshop clarified for me how these gates work together to run systems and complete challenging undertakings.
 
-This webinar focused more especially on possible external world communication for a Raspberry Pi. Most exciting experience is seeing the peripherals architecture running and the Raspberry Pi connecting with several external components using the GPIO.
+More crucially, this webinar addressed presumably outside world contact with a Raspberry Pi. Seeing the Raspberry Pi integrating several external components via the GPIO and the peripherals design is quite impressive.
 
-Using System on a Chip (SoC), I could comprehend the Broadcom BCM2837 chip at the core of the Pi 3. Knowing that this chip has a central CPU core, a graphics processing unit (GPU), memory management, and peripheral drivers all in a single package helps me to respect how small and effective modern computing systems can be.
+Through System on a Chip (SoC), I could understand the Broadcom BCM2837 chip at Pi 3's core. Knowing that this chip contains a central CPU core, a graphics processing unit (GPU), memory management, and peripheral drivers all in a single package helps me to respect how tiny and efficient modern computing systems can be.
 
-The GPIO pins of the Raspberry Pi provide until unheard-of flexibility for overall use in general purpose input/function. I found that these pins might be set for more advanced uses including external clocks or serial connection in addition to running as inputs and outputs.
+The Raspberry Pi's GPIO pins provide until unheard-of adaptability for general application in broad purpose input/function. Apart from being inputs and outputs, I discovered that these pins may be altered for more complex uses including serial connection or external clocks.
 
-This workshop introduced me to the WiringPi library and the Node-RED toolset, which let me run GPIO pins under control with Node-RED and WiringPi. This made handling the overall purpose input/output (GPIO) rather easier, especially with relation to hardware experimentation free from complex coding and LED management.
+This tutorial directed me in operating GPIO pins under control using Node-RED and WiringPi and introduced me to the WiringPi library. This made managing the general purpose input/output (GPIO) rather simple, particularly with regard to hardware experimentation free from sophisticated coding and LED control.
 
-The useful experiments I have done with GPIO help me to use the GPIO pins with external components including LEDs and traffic lights. Working with Node-RED, Gertboard, and WiringPi practically helped me to understand the link between code and hardware.
+The practical testing I have done with GPIO enables me to apply the GPIO pins utilising traffic lights and external components such LEDs. Using Node-RED, Gertboard, and WiringPi essentially allowed me to grasp the link between code and hardware.
 
-Furthermore, I found that in next sessions we would look more closely on programming GPIO using directly Assembler and C languages. I also got involved with this. This will help me to theoretically understand low-level programming's possibilities in interacting with hardware.
-
+Furthermore, I discovered that in following sessions we would focus more on programming GPIO with straight Assembler and C languages. I started to find this intriguing as well. This will enable me to conceptually understand the options in handling low-level programming devices.
 ## session 4 
+All things considered, this program has raised my degree of computer and component operating expertise. One equally finds use for Git, GitHub, and Raspberry Pi in project management, change tracking, hardware and software handling. The classes have allowed me to connect theoretical ideas as binary, logic, and CPU design to practical uses.
 
-All things considered, this training course has increased my knowledge of computer and component operation. Using Git, GitHub, and Raspberry Pi has helped one equally with project management, change tracking, hardware and software handling. The classes have helped me to relate theoretical principles like binary, logic, and CPU design real applications.
-
-Having experimented with the practical Raspberry Pi and GPIO pins, I now understand how ground-up building systems are built and how hardware interacts with software. This conference sparked my interest in more difficult topics, especially in connection to low-level programming and system architecture.
-
-Maintaining my growth on these basis and more confident in my ability to control technology thrills me.
-
-
-
-
+Having explored with the handy Raspberry Pi and GPIO pins, I now see how hardware interacts with software and how ground-up building systems are constructed. Particularly with relation to low-level programming and system architecture, this conference piqued my curiosity in more challenging subjects.
