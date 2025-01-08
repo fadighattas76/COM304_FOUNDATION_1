@@ -1,19 +1,10 @@
 [Contents](../personal_learning_record/personal_learning_record.md) | [Prior Experience](../personal_learning_record/priorExperience.md) 
 
 # Prior Experience
-Past Experience of Computing:
+My previous computer expertise was really bad, if not totally absent. I'm not sure with them what I should be doing. I have never worked with programming, hardware, or operating systems hence my knowledge of the subject is really poor. This especially relates to the fact that I have never taken part in any of these programs previously. On the other hand, I am motivated to get more computer-related knowledge and useful skills in the field.
 
-I have little to no previous experience with computing. My understanding of the field is very basic, and I have not worked with programming, hardware, or operating systems before. However, I have a strong interest in learning more and gaining hands-on experience in computing.
+From what I understand:
 
-What I Know:
+I have great faith in my capacity to employ computers in daily life, including accessing the internet, running programs, and using file management tools since I know I can do all these things. Though I know some basic technical terms, I'm not sure from the company exactly. I'm not sure the pertinent language to use. I have assigned to myself that this module will enable me to get the following:
 
-I am familiar with everyday use of computers, such as browsing the web, using software applications, and managing files.
-I have some awareness of basic tech terms but don't have in-depth knowledge or practical experience.
-What I Would Like to Learn from This Module:
-
-Programming: I want to learn how to write code, particularly in languages like C, Python, and Assembly.
-Computer Architecture: I’m interested in understanding how computers are structured and how they work at a hardware level.
-Operating Systems: I want to learn how operating systems function, how they manage resources, and how to interact with them.
-Networking: I hope to understand how devices communicate over networks and how to manage and troubleshoot networks.
-Raspberry Pi and Hardware: I’d love to gain practical experience by working with a Raspberry Pi and learning how hardware and software interact.
-Overall, I hope this module provides me with a solid foundation in both the theoretical and practical aspects of computing, setting me up for future learning and projects.
+Specifically, learning the languages C, Python, and Assembly—the ones required to generate code in the field of programming—piques especially my interest I also want to learn coding in another sense. The physical architecture and operation of computers much fascinate me, hence I would love to study about computer architecture. The way computers are configured greatly fascinates me. I am eager to learn more about operating systems since I value knowledge more on its functioning mechanism. More precisely, I would like to know how users interact with operating systems and resource management is handled. Understanding how devices link across systems and knowing about networking interests me since I hope to be able to manage and diagnose networks as well. These are the reasons I find networking to be really interesting. hardware for Raspberry Pi Using a Raspberry Pi and learning the connection between hardware and software programs would present me one amazing chance to gain useful knowledge. Possibility of this makes me glad. Reaching this degree of knowledge would be heaven, in my opinion. All things considered, I am rather optimistic that this module will provide me a strong basis in both the theoretical and practical aspects of computers, so prepare me for next studies and projects.
