@@ -18,38 +18,38 @@ GitHub Projects: Using GitHub Projects helps me stay organized and keep track of
 Raspberry Pi: Setting up the Raspberry Pi lets me get hands-on experience with hardware and software, helping me understand how computers work on a deeper level.
 
 ## session 2
-Computer Architecture Foundations: Learning about computer architecture gives me a clear understanding of how computers are designed and function, from basic components to complex systems like CPUs. It connects theoretical concepts to real-world hardware.
+Understanding computer architecture has given me a solid grasp of how computers are constructed and operate, starting from the fundamental components to the more complex CPUs. It connects theoretical concepts to practical technology.
 
-Binary and Boolean Logic: Binary arithmetic and Boolean algebra are key to how computers process data. Understanding these concepts helps me grasp how decisions are made within a computer at the most fundamental level.
+Binary arithmetic and boolean algebra are the basic building blocks for how computers manage data. I now understand these concepts and how a computer makes choices at the most fundamental level much better.
 
-Logic Gates: Logic gates are the building blocks of digital circuits. They form the foundation for creating more complex systems, such as processors, and understanding them is essential for comprehending how computation happens.
+Digital circuitry is primarily constructed using logic gates. Understanding how computing works is important because they are the basis for building more complex systems like CPUs, so studying them is essential.
 
-Digital Circuits and CPU Design: Learning how simple logic gates combine to form processors has helped me understand how increasingly complex computations are performed in a computer, providing a solid foundation for more advanced studies in hardware and software development.
+Design of Digital Circuits and CPUs: I’ve gained a better understanding of how computers perform complex computations by learning about how simple logic gates combine to form CPUs. This knowledge has set me up for a deeper exploration into hardware and software development.
 
-Raspberry Pi and Practical Application: Using a Raspberry Pi allows me to see how theory translates into practice. It offers hands-on experience with both software and hardware, reinforcing the concepts of computer architecture and digital systems.
+Using a Raspberry Pi will help me understand how theory works in real-life situations. Hands-on experience with hardware and software helps to strengthen the understanding of digital systems and computer architecture.
 
 ## session 3
-CPU Construction with Logic Gates: In the last session, I learned how a CPU can be built using logic gates, which are the fundamental building blocks of computing. This session helped me understand how these gates combine to perform complex tasks and run programs.
+Constructing a CPU out of logic gates During the last session, I learnt how basic computer building elements—logic gates—could be used to create a CPU. This session helped me to understand how these gates cooperate to run systems and finish difficult tasks.
 
-Raspberry Pi Communication: This session expanded on how a Raspberry Pi communicates with the outside world. It’s fascinating to see how the peripherals architecture works and how the Raspberry Pi interacts with various external components through the GPIO.
+This webinar focused more especially on possible external world communication for a Raspberry Pi. Most exciting experience is seeing the peripherals architecture running and the Raspberry Pi connecting with several external components using the GPIO.
 
-System on a Chip (SoC): I gained insight into the Broadcom BCM2837 chip at the heart of the Pi3. Understanding that this chip includes CPU cores, a GPU, memory management, and peripheral drivers in a single package helps me see how compact and efficient modern computing systems can be.
+Using System on a Chip (SoC), I could comprehend the Broadcom BCM2837 chip at the core of the Pi 3. Knowing that this chip has a central CPU core, a graphics processing unit (GPU), memory management, and peripheral drivers all in a single package helps me to respect how small and effective modern computing systems can be.
 
-GPIO Functionality: The GPIO pins on the Raspberry Pi are extremely versatile. I learned that these pins can be programmed as inputs, outputs, and even used for more advanced purposes like serial communication or external clocks.
+The GPIO pins of the Raspberry Pi provide until unheard-of flexibility for overall use in general purpose input/function. I found that these pins might be set for more advanced uses including external clocks or serial connection in addition to running as inputs and outputs.
 
-Using Node-RED and WiringPi: This session introduced me to Node-RED and the WiringPi library for controlling the GPIO pins. This made working with the GPIO much easier, especially when manipulating LEDs and experimenting with hardware without diving into complex programming.
+This workshop introduced me to the WiringPi library and the Node-RED toolset, which let me run GPIO pins under control with Node-RED and WiringPi. This made handling the overall purpose input/output (GPIO) rather easier, especially with relation to hardware experimentation free from complex coding and LED management.
 
-Practical Experiments with GPIO: I now know how to use the GPIO pins with external components like LEDs and traffic lights. The hands-on experiments with Node-RED, Gertboard, and WiringPi enhanced my understanding of how programming and hardware interact.
+The useful experiments I have done with GPIO help me to use the GPIO pins with external components including LEDs and traffic lights. Working with Node-RED, Gertboard, and WiringPi practically helped me to understand the link between code and hardware.
 
-Further GPIO Programming: I also learned that in future sessions, we will dive deeper into programming GPIO directly using languages like Assembler and C. This will give me a more technical understanding of how low-level programming works with hardware.
+Furthermore, I found that in next sessions we would look more closely on programming GPIO using directly Assembler and C languages. I also got involved with this. This will help me to theoretically understand low-level programming's possibilities in interacting with hardware.
 
 ## session 4 
 
-Overall, this learning experience has given me a solid understanding of how computers and their components work. By using tools like Git, GitHub, and Raspberry Pi, I've learned how to manage projects, track changes, and work with both software and hardware. The sessions have helped me connect theoretical concepts like binary, logic gates, and CPU design with real-world applications.
+All things considered, this training course has increased my knowledge of computer and component operation. Using Git, GitHub, and Raspberry Pi has helped one equally with project management, change tracking, hardware and software handling. The classes have helped me to relate theoretical principles like binary, logic, and CPU design real applications.
 
-The hands-on experiments with the Raspberry Pi and its GPIO pins have made the learning process more practical and engaging. I now have a better understanding of how software interacts with hardware and how these systems are built from the ground up. This experience has sparked my interest in exploring more advanced topics, especially in areas like low-level programming and system design.
+Having experimented with the practical Raspberry Pi and GPIO pins, I now understand how ground-up building systems are built and how hardware interacts with software. This conference sparked my interest in more difficult topics, especially in connection to low-level programming and system architecture.
 
-Overall, I feel more confident in my ability to work with technology and am excited to continue building on these foundations.
+Maintaining my growth on these basis and more confident in my ability to control technology thrills me.
 
 
 
